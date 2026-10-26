@@ -3,7 +3,6 @@
 예전 도메인 <https://haeumkorean.me/>에서 보여 주는 정적 안내 페이지입니다.
 
 - 본 사이트: <https://haeum.haeonkorean.com/>
-- 어휘 학습: <https://words.haeonkorean.com/>
 - 자동 이동, meta refresh, JavaScript, 외부 폰트는 사용하지 않습니다. 방문자가 링크를 선택해 이동합니다.
 - `rel=canonical`은 본 사이트 주소를 알려 주는 메타데이터이며 브라우저를 이동시키지 않습니다.
 
